@@ -1,4 +1,4 @@
-from sqlmodel import Field, SQLModel, create_engine
+from sqlmodel import Field, SQLModel
 
 class Hero(SQLModel, table=True):
     id: int | None = Field(default=None, primary_key=True)
