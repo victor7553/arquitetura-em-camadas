@@ -81,6 +81,7 @@ project/
 ├── Dockerfile                        # 🐳 Configuração Docker
 └── run.py                            # 💻 Script opcional para iniciar com Uvicorn
 
+```
 ---
 
 ## 🧠 Descrição das Camadas
