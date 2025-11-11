@@ -20,6 +20,7 @@ Essa estrutura organiza o código em módulos bem definidos, facilitando **manut
 
 Abaixo está o modelo de diretórios baseado na **arquitetura em camadas** com princípios de DDD:
 
+```text
 project/
 │
 ├── app/                              # 🧠 Núcleo da aplicação
